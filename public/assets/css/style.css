@@ -5,8 +5,7 @@ body {
 
 h1 {
   background:  rgba(54, 89, 1, 1); 
-  margin-left: 700px;
-  margin-right: 700px;
+ 
   border-radius: 25px;
   padding: 25px 25px;
   box-shadow: 5px 5px 5px;
@@ -52,8 +51,20 @@ li {
   background: rgba(242, 174, 92, 1);
     border-radius: 25px;
     box-shadow: 5px 5px 5px;
+    height: 145px;
 }
 
 .col-12 {
   height: 100px;
+}
+
+.margin {
+  border-radius: 25px;
+  background: rgba(52, 112, 191, 1);
+  box-shadow: 5px 5px 5px;
+}
+
+.change-devoured {
+  height: 25px;
+    font-size: 8px;
 }
